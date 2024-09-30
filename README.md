@@ -1,4 +1,4 @@
-# Salary Prediction Model
+# Salary Prediction - Simple Linear Regression
 
 This repository contains a simple linear regression model to predict salary based on years of experience.
 
